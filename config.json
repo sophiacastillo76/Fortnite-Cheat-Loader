@@ -1,0 +1,8 @@
+{
+  "loader": {
+    "auto_inject": false,
+    "menu_hotkey": "INSERT",
+    "close_on_detach": true,
+    "log": true
+  }
+}
